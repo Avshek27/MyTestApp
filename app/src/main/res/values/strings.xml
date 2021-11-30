@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Test_IBM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Hint's-->
+    <string name="hint_enter_location">Enter location</string>
+
+    <!-- Labels-->
+    <string name="btn_search">Search</string>
+
+    <!-- Fragment's -->
+    <string name="search_fragment">Location Search</string>
+    <string name="search_history_fragment">Search History</string>
+    <string name="weather_report_fragment">Weather Report</string>
+
+    <!-- Menu action -->
+    <string name="action_history">History</string>
+</resources>
