@@ -28,6 +28,9 @@ open class BaseActivity : AppCompatActivity() {
         manager.popBackStack()
     }
 
+    /**
+     * handling back button.
+     */
     override fun onBackPressed() {
         val fm = supportFragmentManager.beginTransaction()
         if (!fm.isEmpty)
